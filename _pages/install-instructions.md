@@ -10,6 +10,10 @@ toc_sticky: true
 
 # Updated Guide (PS4)
 
+Moved to [here](https://github.com/illusion0001/PS4-PS5-Game-Patch#usage-ps4)!
+
+<!--
+
 To setup custom game patches on your PS4, you will need to have a jailbreakable console, that is on firmware 9.00 or lower.
 
 - 1) Start by loading GoldHEN 2.3 or newer on your PS4. (See excellent guide by [Wololo](https://wololo.net/2021/12/14/ps4-how-to-run-the-ps4-9-00-jailbreak-full-guide-with-goldhen-payload/).
@@ -69,6 +73,8 @@ Video Guide:
   <source src="https://img-assets.illusion0001.workers.dev/assets/images/setup/launcher-vidya.mp4" type="video/mp4">
 </video>
 </div>
+
+-->
 
 ## Legacy Guide
 
